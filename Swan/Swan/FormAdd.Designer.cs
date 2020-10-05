@@ -114,15 +114,15 @@
             this.firstNameLabel.Font = new System.Drawing.Font("Ink Free", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.firstNameLabel.Location = new System.Drawing.Point(6, 12);
             this.firstNameLabel.Name = "firstNameLabel";
-            this.firstNameLabel.Size = new System.Drawing.Size(97, 23);
+            this.firstNameLabel.Size = new System.Drawing.Size(104, 23);
             this.firstNameLabel.TabIndex = 0;
-            this.firstNameLabel.Text = "First name";
+            this.firstNameLabel.Text = "First name*";
             // 
             // firstNameBox
             // 
             this.firstNameBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.firstNameBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.firstNameBox.Location = new System.Drawing.Point(171, 9);
+            this.firstNameBox.Location = new System.Drawing.Point(178, 9);
             this.firstNameBox.Name = "firstNameBox";
             this.firstNameBox.Size = new System.Drawing.Size(350, 29);
             this.firstNameBox.TabIndex = 0;
@@ -135,15 +135,15 @@
             this.lastNameLabel.Font = new System.Drawing.Font("Ink Free", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lastNameLabel.Location = new System.Drawing.Point(6, 53);
             this.lastNameLabel.Name = "lastNameLabel";
-            this.lastNameLabel.Size = new System.Drawing.Size(95, 23);
+            this.lastNameLabel.Size = new System.Drawing.Size(102, 23);
             this.lastNameLabel.TabIndex = 7;
-            this.lastNameLabel.Text = "Last name";
+            this.lastNameLabel.Text = "Last name*";
             // 
             // lastNameBox
             // 
             this.lastNameBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lastNameBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lastNameBox.Location = new System.Drawing.Point(171, 50);
+            this.lastNameBox.Location = new System.Drawing.Point(178, 50);
             this.lastNameBox.Name = "lastNameBox";
             this.lastNameBox.Size = new System.Drawing.Size(350, 29);
             this.lastNameBox.TabIndex = 1;
@@ -164,7 +164,7 @@
             // 
             this.dateOfBirthBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.dateOfBirthBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dateOfBirthBox.Location = new System.Drawing.Point(171, 91);
+            this.dateOfBirthBox.Location = new System.Drawing.Point(178, 91);
             this.dateOfBirthBox.Name = "dateOfBirthBox";
             this.dateOfBirthBox.Size = new System.Drawing.Size(350, 29);
             this.dateOfBirthBox.TabIndex = 2;
@@ -184,7 +184,7 @@
             // 
             this.emailBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.emailBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.emailBox.Location = new System.Drawing.Point(171, 132);
+            this.emailBox.Location = new System.Drawing.Point(178, 132);
             this.emailBox.Name = "emailBox";
             this.emailBox.Size = new System.Drawing.Size(350, 29);
             this.emailBox.TabIndex = 3;
@@ -196,15 +196,15 @@
             this.homeNumberLabel.Font = new System.Drawing.Font("Ink Free", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.homeNumberLabel.Location = new System.Drawing.Point(6, 176);
             this.homeNumberLabel.Name = "homeNumberLabel";
-            this.homeNumberLabel.Size = new System.Drawing.Size(118, 23);
+            this.homeNumberLabel.Size = new System.Drawing.Size(125, 23);
             this.homeNumberLabel.TabIndex = 10;
-            this.homeNumberLabel.Text = "Home number";
+            this.homeNumberLabel.Text = "Home number*";
             // 
             // homeNumberBox
             // 
             this.homeNumberBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.homeNumberBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.homeNumberBox.Location = new System.Drawing.Point(171, 173);
+            this.homeNumberBox.Location = new System.Drawing.Point(178, 173);
             this.homeNumberBox.Name = "homeNumberBox";
             this.homeNumberBox.Size = new System.Drawing.Size(350, 29);
             this.homeNumberBox.TabIndex = 4;
@@ -225,7 +225,7 @@
             // 
             this.mobileNumberBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.mobileNumberBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mobileNumberBox.Location = new System.Drawing.Point(171, 214);
+            this.mobileNumberBox.Location = new System.Drawing.Point(178, 214);
             this.mobileNumberBox.Name = "mobileNumberBox";
             this.mobileNumberBox.Size = new System.Drawing.Size(350, 29);
             this.mobileNumberBox.TabIndex = 5;
@@ -235,7 +235,7 @@
             // 
             this.streetBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.streetBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.streetBox.Location = new System.Drawing.Point(171, 255);
+            this.streetBox.Location = new System.Drawing.Point(178, 255);
             this.streetBox.Name = "streetBox";
             this.streetBox.Size = new System.Drawing.Size(350, 29);
             this.streetBox.TabIndex = 6;
@@ -266,7 +266,7 @@
             // 
             this.cityBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.cityBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cityBox.Location = new System.Drawing.Point(171, 296);
+            this.cityBox.Location = new System.Drawing.Point(178, 296);
             this.cityBox.Name = "cityBox";
             this.cityBox.Size = new System.Drawing.Size(350, 29);
             this.cityBox.TabIndex = 7;
@@ -286,7 +286,7 @@
             // 
             this.zipBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.zipBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.zipBox.Location = new System.Drawing.Point(171, 337);
+            this.zipBox.Location = new System.Drawing.Point(178, 337);
             this.zipBox.Name = "zipBox";
             this.zipBox.Size = new System.Drawing.Size(350, 29);
             this.zipBox.TabIndex = 8;
@@ -298,15 +298,15 @@
             this.emergencyContactLabel.Font = new System.Drawing.Font("Ink Free", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.emergencyContactLabel.Location = new System.Drawing.Point(6, 381);
             this.emergencyContactLabel.Name = "emergencyContactLabel";
-            this.emergencyContactLabel.Size = new System.Drawing.Size(159, 23);
+            this.emergencyContactLabel.Size = new System.Drawing.Size(166, 23);
             this.emergencyContactLabel.TabIndex = 15;
-            this.emergencyContactLabel.Text = "Emergency contact";
+            this.emergencyContactLabel.Text = "Emergency contact*";
             // 
             // emergencyContactBox
             // 
             this.emergencyContactBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.emergencyContactBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.emergencyContactBox.Location = new System.Drawing.Point(171, 378);
+            this.emergencyContactBox.Location = new System.Drawing.Point(178, 378);
             this.emergencyContactBox.Name = "emergencyContactBox";
             this.emergencyContactBox.Size = new System.Drawing.Size(350, 29);
             this.emergencyContactBox.TabIndex = 9;
@@ -319,15 +319,15 @@
             this.emergencyNumberLabel.Font = new System.Drawing.Font("Ink Free", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.emergencyNumberLabel.Location = new System.Drawing.Point(6, 422);
             this.emergencyNumberLabel.Name = "emergencyNumberLabel";
-            this.emergencyNumberLabel.Size = new System.Drawing.Size(159, 23);
+            this.emergencyNumberLabel.Size = new System.Drawing.Size(166, 23);
             this.emergencyNumberLabel.TabIndex = 16;
-            this.emergencyNumberLabel.Text = "Emergency number";
+            this.emergencyNumberLabel.Text = "Emergency number*";
             // 
             // emergencyNumberBox
             // 
             this.emergencyNumberBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.emergencyNumberBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.emergencyNumberBox.Location = new System.Drawing.Point(171, 419);
+            this.emergencyNumberBox.Location = new System.Drawing.Point(178, 419);
             this.emergencyNumberBox.Name = "emergencyNumberBox";
             this.emergencyNumberBox.Size = new System.Drawing.Size(350, 29);
             this.emergencyNumberBox.TabIndex = 10;
@@ -348,7 +348,7 @@
             // 
             this.commentsBox.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.commentsBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.commentsBox.Location = new System.Drawing.Point(171, 460);
+            this.commentsBox.Location = new System.Drawing.Point(178, 460);
             this.commentsBox.Multiline = true;
             this.commentsBox.Name = "commentsBox";
             this.commentsBox.Size = new System.Drawing.Size(650, 116);
